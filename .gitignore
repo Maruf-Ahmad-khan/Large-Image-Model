@@ -33,3 +33,6 @@ logs/
 
 *.venv
 venv/
+
+*.Data
+Data
