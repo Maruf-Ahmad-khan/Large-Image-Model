@@ -1,0 +1,9 @@
+# ================================
+# config/prompt_templates.yaml
+# ================================
+prompts:
+  default: "Tell me about this image in detail."
+  analyze: "Analyze this image and provide comprehensive insights about what you see."
+  describe: "Describe the contents of this image, including objects, people, and settings."
+  technical: "Provide a technical analysis of this image, including composition, lighting, and visual elements."
+  creative: "Write a creative description or story inspired by this image."
